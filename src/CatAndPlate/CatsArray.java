@@ -1,5 +1,5 @@
 package CatAndPlate;
-//В РАБОТЕ!!!!!!!!
+//В РАБОТЕ!!!!!!!!!
 //public class CatsArray {
 //        static Cat[] abc = new Cat [3];
 //

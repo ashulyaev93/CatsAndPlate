@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Main
 {
     public static void main(String[] args) {
-
+//Сюда массив котов лучше
         System.out.println("Добавьте в тарелку еду!");
         Scanner scan = new Scanner(System.in);
         int addedFood = scan.nextInt();

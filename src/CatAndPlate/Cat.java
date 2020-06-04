@@ -16,7 +16,7 @@ public class Cat
     {
         isCheakEat = p.checkEat(appetite);
     }
-
+//проверка еды
     public boolean isCheakEat()
     {
         return isCheakEat;
