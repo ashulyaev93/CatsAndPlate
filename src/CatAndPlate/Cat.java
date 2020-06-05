@@ -12,11 +12,11 @@ public class Cat
         this.appetite = appetite;
     }
 
-    public void eat (Plate p)
+    public void eat (Plate plate)
     {
-        isCheakEat = p.checkEat(appetite);
+        isCheakEat = plate.checkEat(name, appetite);
     }
-
+    //проверка еды в тарелке
     public boolean isCheakEat()
     {
         return isCheakEat;
